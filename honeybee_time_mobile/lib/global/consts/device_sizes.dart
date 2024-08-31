@@ -1,0 +1,1 @@
+const kActualDeviceHeight = 740;
